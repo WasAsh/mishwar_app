@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41132586269",
+    "firebase_url": "https://mishwar-app-20.firebaseio.com",
+    "project_id": "mishwar-app-20",
+    "storage_bucket": "mishwar-app-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41132586269:android:e52c0e7c88cbdd0cac9df4",
+        "android_client_info": {
+          "package_name": "com.example.mishwar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41132586269-hipd6rrodr7jhnu4ad7c6i3bjjihgt46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICAjtO4reqgnoW1tOlZ2MEgPi9HIS0zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41132586269-hipd6rrodr7jhnu4ad7c6i3bjjihgt46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
